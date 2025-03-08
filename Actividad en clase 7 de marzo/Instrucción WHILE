@@ -1,0 +1,11 @@
+# -- coding: utf-8 --
+"""
+Created on Thu Vier  6 18:16:45 2025
+
+@author: Ramirez Cruz
+"""
+
+contador = 1
+while contador <= 5:
+    print(f"Número con while: {contador}")
+    contador += 1
